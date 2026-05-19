@@ -1,6 +1,5 @@
 import React from 'react';
 import coyo from '../assets/coyo.png';
-import styles from "./Components/.module.css";
 
 export default function Page1() {
   return (
